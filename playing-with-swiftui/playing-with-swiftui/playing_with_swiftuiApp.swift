@@ -7,11 +7,27 @@
 
 import SwiftUI
 
+class Box: ObservableObject {
+    var del: CustomAppDelegate?
+}
 @main
 struct playing_with_swiftuiApp: App {
+    
+    @UIApplicationDelegateAdaptor(CustomAppDelegate.self) var appDelegate
+    @Environment(\.scenePhase) var phase
+    @ObservedObject var box = Box()
+    
     var body: some Scene {
-        WindowGroup {
+        box.del = appDelegate
+        
+        return WindowGroup {
             ContentView()
+                .environmentObject(box)
+        }
+        .onChange(of: phase) { action in
+            print(action)
         }
     }
+    
+    
 }

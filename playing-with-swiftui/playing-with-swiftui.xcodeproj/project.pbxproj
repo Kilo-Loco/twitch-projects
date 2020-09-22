@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E097D8825194F4200F9CA4E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E097D8725194F4200F9CA4E /* AppDelegate.swift */; };
+		9E097DAD2519632000F9CA4E /* CustomSceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E097DAC2519632000F9CA4E /* CustomSceneDelegate.swift */; };
 		9E0C6D7025194B8C001D0E3F /* playing_with_swiftuiApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0C6D6F25194B8C001D0E3F /* playing_with_swiftuiApp.swift */; };
 		9E0C6D7225194B8C001D0E3F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E0C6D7125194B8C001D0E3F /* ContentView.swift */; };
 		9E0C6D7425194B8D001D0E3F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E0C6D7325194B8D001D0E3F /* Assets.xcassets */; };
@@ -14,6 +16,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9E097D8725194F4200F9CA4E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9E097DAC2519632000F9CA4E /* CustomSceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomSceneDelegate.swift; sourceTree = "<group>"; };
 		9E0C6D6C25194B8C001D0E3F /* playing-with-swiftui.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "playing-with-swiftui.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E0C6D6F25194B8C001D0E3F /* playing_with_swiftuiApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = playing_with_swiftuiApp.swift; sourceTree = "<group>"; };
 		9E0C6D7125194B8C001D0E3F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,10 +57,12 @@
 			isa = PBXGroup;
 			children = (
 				9E0C6D6F25194B8C001D0E3F /* playing_with_swiftuiApp.swift */,
+				9E097D8725194F4200F9CA4E /* AppDelegate.swift */,
 				9E0C6D7125194B8C001D0E3F /* ContentView.swift */,
 				9E0C6D7325194B8D001D0E3F /* Assets.xcassets */,
 				9E0C6D7825194B8D001D0E3F /* Info.plist */,
 				9E0C6D7525194B8D001D0E3F /* Preview Content */,
+				9E097DAC2519632000F9CA4E /* CustomSceneDelegate.swift */,
 			);
 			path = "playing-with-swiftui";
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E097DAD2519632000F9CA4E /* CustomSceneDelegate.swift in Sources */,
+				9E097D8825194F4200F9CA4E /* AppDelegate.swift in Sources */,
 				9E0C6D7225194B8C001D0E3F /* ContentView.swift in Sources */,
 				9E0C6D7025194B8C001D0E3F /* playing_with_swiftuiApp.swift in Sources */,
 			);

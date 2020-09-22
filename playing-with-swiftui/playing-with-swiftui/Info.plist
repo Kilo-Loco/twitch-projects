@@ -46,5 +46,18 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+    <key>UIApplicationShortcutItems</key>
+    <array>
+        <dict>
+            <key>UIApplicationShortcutItemType</key>
+            <string>SearchAction</string>
+            <key>UIApplicationShortcutItemIconType</key>
+            <string>UIApplicationShortcutIconTypeSearch</string>
+            <key>UIApplicationShortcutItemTitle</key>
+            <string>Custom Search</string>
+            <key>UIApplicationShortcutItemSubtitle</key>
+            <string>Search for a sexy item</string>
+        </dict>
+    </array>
 </dict>
 </plist>
