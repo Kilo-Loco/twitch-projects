@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">start-composin</string>
+    <string name="title_activity_session">My Compose App</string>
 </resources>
