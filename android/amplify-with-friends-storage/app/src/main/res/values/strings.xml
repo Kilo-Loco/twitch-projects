@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">amplify-with-friends-storage</string>
+    <string name="upload">upload</string>
+    <string name="download">download</string>
+    <string name="gallery">gallery</string>
+    <string name="test_image">test_image</string>
+    <string name="missing_image">missing image</string>
+</resources>

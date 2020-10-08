@@ -1,0 +1,16 @@
+{
+  "auth": {
+    "amplifywithfriendsstec013fd3": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  },
+  "storage": {
+    "s37dd1bf06": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}
