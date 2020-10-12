@@ -1,0 +1,6 @@
+framework module Pods_urban_dictionary_ios {
+  umbrella header "Pods-urban-dictionary-ios-umbrella.h"
+
+  export *
+  module * { export * }
+}

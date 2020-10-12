@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DeclareUI",
+        "repositoryURL": "https://github.com/Kilo-Loco/declareui",
+        "state": {
+          "branch": null,
+          "revision": "a357b4b621afc97fffd4fadef32357334a3d4b34",
+          "version": "0.3.3"
+        }
+      },
+      {
+        "package": "KiloLocoKit",
+        "repositoryURL": "https://github.com/Kilo-Loco/KiloLocoKit",
+        "state": {
+          "branch": null,
+          "revision": "c0ccb846100dcc1f4a13e14e3766715b7521b5f2",
+          "version": "1.1.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
