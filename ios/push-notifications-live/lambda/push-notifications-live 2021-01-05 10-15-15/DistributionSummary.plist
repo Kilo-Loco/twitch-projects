@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>push-notifications-live.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4C33A98A148B4A1A2BDEA463D5D4539B16F89F89</string>
+				<key>dateExpires</key>
+				<string>1/5/22</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4C33A98A148B4A1A2BDEA463D5D4539B16F89F89</string>
+						<key>dateExpires</key>
+						<string>1/5/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AWSCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5K99777NES</string>
+						<key>name</key>
+						<string>Kyle Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4C33A98A148B4A1A2BDEA463D5D4539B16F89F89</string>
+						<key>dateExpires</key>
+						<string>1/5/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AWSPluginsCore.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5K99777NES</string>
+						<key>name</key>
+						<string>Kyle Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4C33A98A148B4A1A2BDEA463D5D4539B16F89F89</string>
+						<key>dateExpires</key>
+						<string>1/5/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Amplify.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5K99777NES</string>
+						<key>name</key>
+						<string>Kyle Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4C33A98A148B4A1A2BDEA463D5D4539B16F89F89</string>
+						<key>dateExpires</key>
+						<string>1/5/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AmplifyPlugins.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5K99777NES</string>
+						<key>name</key>
+						<string>Kyle Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4C33A98A148B4A1A2BDEA463D5D4539B16F89F89</string>
+						<key>dateExpires</key>
+						<string>1/5/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>AppSyncRealTimeClient.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5K99777NES</string>
+						<key>name</key>
+						<string>Kyle Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4C33A98A148B4A1A2BDEA463D5D4539B16F89F89</string>
+						<key>dateExpires</key>
+						<string>1/5/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SQLite.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5K99777NES</string>
+						<key>name</key>
+						<string>Kyle Lee</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>4C33A98A148B4A1A2BDEA463D5D4539B16F89F89</string>
+						<key>dateExpires</key>
+						<string>1/5/22</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>Starscream.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>5K99777NES</string>
+						<key>name</key>
+						<string>Kyle Lee</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>5K99777NES.com.kiloloco.push-notifications-live</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>5K99777NES</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>push-notifications-live.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>12c0320a-0d80-4698-a0c0-b7a5b9b3e738</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.kiloloco.push-notifications-live</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>5K99777NES</string>
+				<key>name</key>
+				<string>Kyle Lee</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
